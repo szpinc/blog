@@ -83,3 +83,6 @@ public
 
 # mac file
 .DS_Store
+
+# git
+.deploy_git

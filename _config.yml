@@ -83,6 +83,6 @@ search:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: szpinc.org:/data/GitLibrary/hexo.git
+  repo: szpinc.org:/root/blog.git
   branch: master
 
