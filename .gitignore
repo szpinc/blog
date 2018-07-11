@@ -86,3 +86,6 @@ public
 
 # git
 .deploy_git
+
+# db.json
+db.json
