@@ -2,6 +2,9 @@
 title: 解决VSCode安装Go tools失败的问题
 date: 2021-04-05 11:03:45
 tags:
+    - go
+categories:
+    - go常见问题
 ---
 
 安装Go后，打开VS Code，按照提示安装了微软官方的GO插件。但在安装go tools时，出现了下面的一大堆错误。
